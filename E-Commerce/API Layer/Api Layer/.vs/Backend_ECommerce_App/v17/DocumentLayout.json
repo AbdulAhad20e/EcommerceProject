@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbdulAhad\\Desktop\\E-Commerce\\API Layer\\Api Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F43048-B91F-4A62-BFF7-0F1C72691A5B}|Backend_ECommerce_App.csproj|c:\\users\\abdulahad\\desktop\\e-commerce\\api layer\\api layer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F43048-B91F-4A62-BFF7-0F1C72691A5B}|Backend_ECommerce_App.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA58DF9-F32C-4959-877B-BC8EF57FC3BA}|..\\..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\abdulahad\\desktop\\e-commerce\\infrastructure\\infrastructure\\respostiories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D43B55-F61B-4F97-A1E7-C95EEDAE7E7B}|..\\..\\Domain\\Domain\\Domain.csproj|c:\\users\\abdulahad\\desktop\\e-commerce\\domain\\domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\Desktop\\E-Commerce\\Infrastructure\\Infrastructure\\Respostiories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Infrastructure\\Infrastructure\\Respostiories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\Desktop\\E-Commerce\\Infrastructure\\Infrastructure\\Respostiories\\CartRepository.cs",
+              "RelativeToolTip": "..\\..\\Infrastructure\\Infrastructure\\Respostiories\\CartRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:01:43.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\Desktop\\E-Commerce\\API Layer\\Api Layer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\Desktop\\E-Commerce\\API Layer\\Api Layer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:54:34.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\Desktop\\E-Commerce\\Domain\\Domain\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "..\\..\\Domain\\Domain\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\Desktop\\E-Commerce\\Domain\\Domain\\Models\\Cart.cs",
+              "RelativeToolTip": "..\\..\\Domain\\Domain\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:54:25.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

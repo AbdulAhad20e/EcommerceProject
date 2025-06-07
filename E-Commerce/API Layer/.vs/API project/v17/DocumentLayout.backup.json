@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\respostiories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\respostiories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\respostiories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\respostiories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\respostiories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\respostiories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\respostiories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\respostiories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|c:\\users\\abdulahad\\source\\repos\\api project\\api project\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF27F45-D9FF-4D55-9AB5-F722606193D0}|API project\\API project.csproj|solutionrelative:api project\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API project\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "RelativeToolTip": "API project\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:19:45.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Respostiories\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "API project\\Respostiories\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Respostiories\\ICourseRepository.cs",
+              "RelativeToolTip": "API project\\Respostiories\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:44:44.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Respostiories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "API project\\Respostiories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Respostiories\\IStudentRepository.cs",
+              "RelativeToolTip": "API project\\Respostiories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:44:11.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Respostiories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "API project\\Respostiories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Respostiories\\StudentRepository.cs",
+              "RelativeToolTip": "API project\\Respostiories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:18:14.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "API project\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\StudentDbContext.cs",
+              "RelativeToolTip": "API project\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:36:24.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "API project\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "API project\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:48:53.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Program.cs",
+              "RelativeDocumentMoniker": "API project\\Program.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Program.cs",
+              "RelativeToolTip": "API project\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:46:56.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Respostiories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "API project\\Respostiories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Respostiories\\CourseRepository.cs",
+              "RelativeToolTip": "API project\\Respostiories\\CourseRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:17:08.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "API project\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Models\\Student.cs",
+              "RelativeToolTip": "API project\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:54:20.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "API project\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Models\\Course.cs",
+              "RelativeToolTip": "API project\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:54:54.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\appsettings.json",
+              "RelativeDocumentMoniker": "API project\\appsettings.json",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\appsettings.json",
+              "RelativeToolTip": "API project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T06:40:44.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API project\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API project\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:35:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API project\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\AbdulAhad\\source\\repos\\API project\\API project\\WeatherForecast.cs",
+              "RelativeToolTip": "API project\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:35:01.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
